@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;•&nbsp; Em busca de oportunidade na área
+  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;•&nbsp;
 </p>
 
 ---
