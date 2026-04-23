@@ -45,16 +45,16 @@ public class Desenvolvedor {
 ## Projetos em destaque
 
 **[GameXchange](https://github.com/Nevek20/GameXchange)**  
-Plataforma web para troca e gerenciamento de jogos.
+Plataforma web para venda de jogos inspirado na Nuuvem.
 
-**[Sistema de Estoque](https://github.com/Nevek20/Sistema-de-Estoque)**  
-Controle de produtos e organização interna.
+**[Sistema de Estoque](https://github.com/Nevek20/Sistema_RMA)**  
+Controle de processadores e organização interna.
 
-**[Dream Game](https://github.com/Nevek20/Dream-Game)**  
+**[Site de vendas (Estilo B2B)](https://github.com/Nevek20/Vendas_informatica)**  
+Sistema de vendas inspirado na Kabum|TeraByte
+
+**[Dream Game](https://github.com/Nevek20/DreamGame)**  
 Sistema de cupons em C# com MySQL.
-
-**[Sites e Landing Pages](https://github.com/Nevek20?tab=repositories)**  
-Projetos web responsivos e modernos.
 
 ---
 
