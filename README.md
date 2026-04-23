@@ -1,16 +1,61 @@
-## Hi there 👋
+import java.util.Arrays;
+import java.util.List;
 
-<!--
-**Nevek20/Nevek20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Desenvolvedor {
+    public void apresentar() {
+        System.out.println("Perfil carregado com sucesso.");
+    }
+}
 
-Here are some ideas to get you started:
+class SobreMim extends Desenvolvedor {
+    String nome = "Matheus Guida";
+    String area = "Técnico de TI / Dev Back-end";
+    
+    List<String> contato = Arrays.asList(
+        "linkedin.com/in/matheus-guid",
+        "github.com/Nevek20"
+    );
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    String trabalho = "Projetos próprios / Freelance";
+    String local = "Americana/SP";
+}
+
+class Skills extends Desenvolvedor {
+    List<String> linguagens = Arrays.asList(
+        "Java",
+        "JavaScript",
+        "PHP",
+        "C#",
+        "SQL"
+    );
+
+    List<String> bibliotecas = Arrays.asList(
+        "Bootstrap",
+        "jQuery"
+    );
+
+    List<String> frameworks = Arrays.asList(
+        "Laravel",
+        "Spring Boot"
+    );
+}
+
+public class README {
+    public static void main(String[] args) {
+
+        SobreMim eu = new SobreMim();
+        Skills tech = new Skills();
+
+        eu.apresentar();
+
+        System.out.println("Nome: " + eu.nome);
+        System.out.println("Área: " + eu.area);
+        System.out.println("Trabalho: " + eu.trabalho);
+        System.out.println("Local: " + eu.local);
+        System.out.println("Contato: " + eu.contato);
+
+        System.out.println("\nLinguagens: " + tech.linguagens);
+        System.out.println("Bibliotecas: " + tech.bibliotecas);
+        System.out.println("Frameworks: " + tech.frameworks);
+    }
+}
