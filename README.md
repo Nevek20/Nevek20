@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;•&nbsp;
+  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;
 </p>
 
 ---
