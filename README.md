@@ -1,11 +1,13 @@
-<h1 align="center">Olá, eu sou Matheus Guida</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Matheus%20Guida&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Back-end%20Developer&descAlignY=75&descSize=18&descColor=8892b0"/>
+</p>
 
 <p align="center">
   Estudante de TI &nbsp;|&nbsp; Desenvolvedor em evolução &nbsp;|&nbsp; Focado em Back-end
 </p>
 
 <p align="center">
-  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;
+  Americana - SP &nbsp;•&nbsp; Fatec Americana &nbsp;•&nbsp; Presencial e remoto &nbsp;•&nbsp; Aberto a oportunidades
 </p>
 
 ---
@@ -42,16 +44,16 @@ public class Desenvolvedor {
 
 ## Projetos em destaque
 
-**GameXchange**  
+**[GameXchange](https://github.com/Nevek20/GameXchange)**  
 Plataforma web para troca e gerenciamento de jogos.
 
-**Sistema de Estoque**  
+**[Sistema de Estoque](https://github.com/Nevek20/Sistema-de-Estoque)**  
 Controle de produtos e organização interna.
 
-**Dream Game**  
+**[Dream Game](https://github.com/Nevek20/Dream-Game)**  
 Sistema de cupons em C# com MySQL.
 
-**Sites e Landing Pages**  
+**[Sites e Landing Pages](https://github.com/Nevek20?tab=repositories)**  
 Projetos web responsivos e modernos.
 
 ---
@@ -65,13 +67,9 @@ Projetos web responsivos e modernos.
 
 ---
 
-## Objetivo atual
-
-Conseguir oportunidade como **Estagiário / Júnior em TI**, evoluindo em desenvolvimento e adquirindo experiência prática.
-
----
-
 ## Contato
+
+Buscando oportunidade como **Estagiário / Júnior em TI** — presencial na região de Americana/SP ou remoto.
 
 <p>
   <a href="https://linkedin.com/in/matheus-guida2">
@@ -84,6 +82,10 @@ Conseguir oportunidade como **Estagiário / Júnior em TI**, evoluindo em desenv
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer"/>
+</p>
 
 <p align="center">
   <i>si vis pacem, para bellum.</i>
