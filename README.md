@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Olá, eu sou Matheus Guida 👋</h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-```java
+
 class Desenvolvedor {
 
     String nome = "Matheus Guida";
@@ -20,7 +20,7 @@ class Desenvolvedor {
     String status = "Sempre aprendendo algo novo";
 
 }
-````
+
 
 ---
 
