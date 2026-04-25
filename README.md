@@ -26,7 +26,7 @@ public class Desenvolvedor {
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,cs,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,cs,mysql,html,css,git,github,vscode,laravel" />
 </p>
 
 ---
