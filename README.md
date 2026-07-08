@@ -13,21 +13,48 @@
 ---
 
 ```java
-public class Desenvolvedor {
-    String nome   = "Matheus Guida";
-    String area   = "Back-end / Desenvolvimento Web";
-    String stack  = "Java | PHP | JavaScript | C# | MySQL";
-    String status = "Sempre aprendendo algo novo";
+public class MatheusGuida {
+
+    private final String role = "Back-end Developer";
+
+    private final String[] languages = {
+        "Java",
+        "PHP",
+        "JavaScript",
+        "C#"
+    };
+
+    private final String database = "MySQL";
+
+    public void learning() {
+        System.out.println("Spring Boot");
+        System.out.println("REST APIs");
+        System.out.println("Software Architecture");
+    }
 }
 ```
 
 ---
 
-## Tecnologias
+### Linguagens
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,cs,mysql,html,css,git,github,vscode,laravel" />
-</p>
+Java • PHP • JavaScript • C#
+
+### Banco de Dados
+
+MySQL
+
+### Ferramentas
+
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+
+### Frameworks
+
+Laravel
+Spring Boot
 
 ---
 
@@ -68,8 +95,6 @@ Sistema de cupons em C# com MySQL.
 ---
 
 ## Contato
-
-Buscando oportunidade como **Estagiário / Júnior em TI** — presencial na região de Americana/SP ou remoto.
 
 <p>
   <a href="https://linkedin.com/in/matheus-guida2">
