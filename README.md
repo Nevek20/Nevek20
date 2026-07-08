@@ -38,23 +38,28 @@ public class MatheusGuida {
 
 ### Linguagens
 
-Java • PHP • JavaScript • C#
+- Java
+- PHP
+- JavaScript
+- C#
 
 ### Banco de Dados
 
-MySQL
+- MySQL
+- SQLite
 
 ### Ferramentas
 
-Git
-GitHub
-VS Code
-IntelliJ IDEA
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
 
 ### Frameworks
 
-Laravel
-Spring Boot
+- Spring Boot
+- Laravel
 
 ---
 
