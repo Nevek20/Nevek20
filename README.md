@@ -59,7 +59,6 @@ public class MatheusGuida {
 ### Frameworks
 
 - Spring Boot
-- Laravel
 
 ---
 
@@ -70,7 +69,7 @@ public class MatheusGuida {
 - Banco de Dados Relacional
 - APIs REST
 - Lógica de Programação
-- Desenvolvimento Web
+- Desenvolvimento Web|Web Development
 
 ---
 
