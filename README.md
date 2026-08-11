@@ -76,7 +76,7 @@ public class MatheusGuida {
 
 ### [SPT Mod Manager](https://github.com/Nevek20/SPT_Mod_Manager) &nbsp;·&nbsp; `TypeScript` `React` `Electron` `Node.js`
 
-Gerenciador de mods desktop, open source sob licença MIT, com **+4.000 downloads**.
+Gerenciador de mods desktop, open source sob licença MIT, com **+7.000 downloads**.
 
 - Integração com REST API pública: requisições em lote, cache local de identificadores e tratamento de *rate limit* — verificação de ~140 itens caiu de 47s para ~2s
 - Validação de segurança na extração de arquivos (`.zip` / `.7z` / `.rar`) contra *path traversal*
