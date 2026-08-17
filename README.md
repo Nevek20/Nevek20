@@ -12,7 +12,7 @@
 
 ---
 
-I build internal systems and applications end to end — from requirements gathering and database modeling to API integration and release. My main project is an open source mod manager with **10,000+ downloads**, written in TypeScript/Electron and integrated with a public third-party REST API.
+I build internal systems and applications end to end, from requirements gathering and database modeling to API integration and release. My main project is an open source mod manager with **10,000+ downloads**, written in TypeScript/Electron and integrated with a public third-party REST API.
 
 ```java
 public class MatheusGuida {
