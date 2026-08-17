@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  Back-end &nbsp;|&nbsp; Sistemas internos e integração de APIs &nbsp;|&nbsp; Fatec Americana
+  Back-end &nbsp;|&nbsp; Internal systems and API integration &nbsp;|&nbsp; Fatec Americana
 </p>
 
 <p align="center">
-  Americana - SP &nbsp;•&nbsp; Presencial e remoto &nbsp;•&nbsp; Aberto a oportunidades
+  Americana - SP, Brazil &nbsp;•&nbsp; On-site and remote &nbsp;•&nbsp; Open to opportunities
 </p>
 
 ---
 
-Desenvolvo sistemas internos e aplicações do zero ao deploy — do levantamento de requisitos à modelagem do banco, integração de APIs e release. Meu projeto principal é um gerenciador de mods open source com **+4.000 downloads**, escrito em TypeScript/Electron, com integração a uma API pública de terceiros.
+I build internal systems and applications end to end — from requirements gathering and database modeling to API integration and release. My main project is an open source mod manager with **10,000+ downloads**, written in TypeScript/Electron and integrated with a public third-party REST API.
 
 ```java
 public class MatheusGuida {
@@ -39,7 +39,7 @@ public class MatheusGuida {
 
 ## Stack
 
-**Linguagens**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +49,7 @@ public class MatheusGuida {
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Banco de Dados**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -61,7 +61,7 @@ public class MatheusGuida {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-**Ferramentas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -72,56 +72,49 @@ public class MatheusGuida {
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 ### [SPT Mod Manager](https://github.com/Nevek20/SPT_Mod_Manager) &nbsp;·&nbsp; `TypeScript` `React` `Electron` `Node.js`
 
-Gerenciador de mods desktop, open source sob licença MIT, com **+7.000 downloads**.
+Open source desktop mod manager (MIT), **10,000+ downloads**, actively maintained and shipping releases based on real user bug reports.
 
-- Integração com REST API pública: requisições em lote, cache local de identificadores e tratamento de *rate limit* — verificação de ~140 itens caiu de 47s para ~2s
-- Validação de segurança na extração de arquivos (`.zip` / `.7z` / `.rar`) contra *path traversal*
-- Download em streaming com controle de *backpressure* para arquivos acima de 3 GB
-- Interface bilíngue (PT-BR / EN) e ciclo completo de release: build, instalador Windows e versionamento
+- **Third-party REST API integration**: batched lookups, local identifier cache and rate-limit handling — checking ~140 installed items dropped from 47s to ~2s
+- **Binary metadata parsing**: reads mod identity (GUID, name, author, version) straight from .NET assemblies when no manifest file is present, plus PE product-version reading to detect the installed runtime
+- **Security**: path-traversal (zip-slip) validation on `.zip` / `.7z` / `.rar` extraction, and write protection for core runtime files
+- **Large files**: streaming downloads with backpressure control and an alternative extraction path for archives over 3 GB
+- **UX**: tree-style mod list with multi-part package grouping, filter chips, bilingual UI (PT-BR / EN)
+- **Release pipeline**: NSIS installer, portable build, versioning and in-app update notifications
 
-### [Sistema de Estoque (RMA)](https://github.com/Nevek20/Sistema_RMA) &nbsp;·&nbsp; `PHP` `MySQL`
+### [Inventory System (RMA)](https://github.com/Nevek20/Sistema_RMA) &nbsp;·&nbsp; `PHP` `MySQL`
 
-Sistema web interno para controle de processadores, usado por toda a equipe técnica e operacional. Reduziu o tempo de registro e consulta em cerca de 70%, substituindo o controle manual por planilhas. Autenticação com controle de acesso por perfil e CRUD completo.
+Internal web system for CPU inventory control, used by the entire technical and operations team. Cut registration and lookup time by roughly 70% by replacing manual spreadsheet tracking. Role-based authentication and full CRUD.
 
 ### [GameXchange](https://github.com/Nevek20/GameXchange) &nbsp;·&nbsp; `PHP` `MySQL` `JavaScript`
 
-Plataforma web de jogos inspirada na Nuuvem, com autenticação de usuários, CRUD, modelagem relacional e integração de REST API entre front-end e back-end.
+Web game platform inspired by Nuuvem, with user authentication, CRUD, relational modeling and REST API integration between front-end and back-end.
 
 ### [Vendas Informática](https://github.com/Nevek20/Vendas_informatica) &nbsp;·&nbsp; `PHP` `MySQL`
 
-Sistema de vendas estilo B2B inspirado em Kabum e TeraByte, com CRUD completo de produtos e pedidos e testes aplicados na lógica de negócio.
+B2B-style sales system inspired by Kabum and TeraByte, with full CRUD for products and orders and tests applied to the business logic.
 
 ### [Dream Game](https://github.com/Nevek20/DreamGame) &nbsp;·&nbsp; `C#` `MySQL`
 
-Sistema de cupons desenvolvido em C# com persistência em MySQL.
+Coupon management system built in C# with MySQL persistence.
 
 ---
 
-## Atualmente estudando
+## Currently learning
 
-- **Java** — certificação *IBM Java Developer* em conclusão
-- **Spring Boot** e arquitetura de APIs REST
-- **Docker, CI/CD** e cloud platforms
-- Arquitetura de software e boas práticas de testes
+- **Java** — *IBM Java Developer* certification in progress
+- **Spring Boot** and REST API architecture
+- **Docker, CI/CD** and cloud platforms
+- Software architecture and testing best practices
 
-<sub>Certificações concluídas: Python for Everybody Specialization (University of Michigan) · Introduction to Software Engineering (IBM) · Getting Started with Linux (Red Hat)</sub>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nevek20&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nevek20&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<sub>Completed certifications: Python for Everybody Specialization (University of Michigan) · Introduction to Software Engineering (IBM) · Getting Started with Linux (Red Hat)</sub>
 
 ---
 
-## Contato
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/matheus-guida2">
