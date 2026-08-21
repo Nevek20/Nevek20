@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Americana - SP, Brazil &nbsp;•&nbsp; On-site and remote &nbsp;•&nbsp; Open to opportunities
+  Americana - SP, Brazil &nbsp;•&nbsp; On-site and remote &nbsp;•&nbsp;
 </p>
 
 ---
