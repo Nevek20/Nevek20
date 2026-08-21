@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Americana - SP, Brazil &nbsp;•&nbsp; On-site and remote &nbsp;•&nbsp;
+  Americana - SP, Brazil &nbsp;•&nbsp; On-site and remote
 </p>
 
 ---
