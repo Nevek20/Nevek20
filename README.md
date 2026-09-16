@@ -76,7 +76,7 @@ public class MatheusGuida {
 
 ### [SPT Mod Manager](https://github.com/Nevek20/SPT_Mod_Manager) &nbsp;·&nbsp; `TypeScript` `React` `Electron` `Node.js`
 
-Open source desktop mod manager (MIT), **10,000+ downloads**, actively maintained and shipping releases based on real user bug reports.
+Open source desktop mod manager (MIT), **20,000+ downloads**, actively maintained and shipping releases based on real user bug reports.
 
 - **Third-party REST API integration**: batched lookups, local identifier cache and rate-limit handling — checking ~140 installed items dropped from 47s to ~2s
 - **Binary metadata parsing**: reads mod identity (GUID, name, author, version) straight from .NET assemblies when no manifest file is present, plus PE product-version reading to detect the installed runtime
